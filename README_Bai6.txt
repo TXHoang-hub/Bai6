@@ -20,4 +20,4 @@ So sánh kết quả:
 - Nhận xét: lần chạy thứ hai nhanh hơn hoặc log cho thấy Maven dependencies được khôi phục từ cache.
 
 Bằng chứng cache:
-Trong log của bước "Set up JDK 17 with Maven cache", GitHub Actions hiển thị thông tin cache được khôi phục, ví dụ "Cache restored from key" hoặc "Cache hit occurred on the primary key".
+Trong log của bước "Set up JDK 17 with Maven cache", GitHub Actions hiển thị thông tin cache được khôi phục, ví dụ "Cache restored from key" hoặc "Cache hit occurred on the primary key".Second workflow run for Maven cache comparison.
