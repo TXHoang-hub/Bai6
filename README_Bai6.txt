@@ -15,8 +15,8 @@ Lệnh build được sử dụng trong workflow:
 mvn -B clean verify
 
 So sánh kết quả:
-- Lần chạy 1: thời gian chạy: ... giây
-- Lần chạy 2: thời gian chạy: ... giây
+- Lần chạy 1: thời gian chạy: 35 giây
+- Lần chạy 2: thời gian chạy: 21 giây
 - Nhận xét: lần chạy thứ hai nhanh hơn hoặc log cho thấy Maven dependencies được khôi phục từ cache.
 
 Bằng chứng cache:
